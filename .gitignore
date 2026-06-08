@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+
+# SQLite database (binary - regenerate with scripts/01_generate_data.py)
+*.db
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# NOTE: CSV data files and PNG charts ARE tracked intentionally
+# They are synthetic (no privacy concerns) and needed for interview demo
