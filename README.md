@@ -1,7 +1,5 @@
 # Pharmaceutical Sales Analytics
 
-> **ZS Associates BTSA Interview Project**  
-> An end-to-end pharmaceutical sales analytics solution built with Python (Pandas, NumPy, Matplotlib) and SQL (SQLite, CTEs, Window Functions).
 
 ---
 
@@ -269,4 +267,3 @@ openpyxl>=3.1.0
 
 ---
 
-*Built for ZS Associates BTSA Interview | Python + SQL + Pharma Domain*
